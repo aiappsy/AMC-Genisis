@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "strict": false,
+    "lib": ["ESNext", "DOM"]
+  },
+  "include": ["server.ts", "storage.ts"]
+}

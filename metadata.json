@@ -1,0 +1,8 @@
+{
+  "name": "DGBP - Digital Business Genesis Platform",
+  "description": "An AI-powered architect that transforms business ideas into deployable React + Cloud Run systems with brand kits, marketing assets, and social packs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
